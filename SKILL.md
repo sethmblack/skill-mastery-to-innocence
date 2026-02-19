@@ -3,8 +3,9 @@ name: mastery-to-innocence
 description: Guide the journey from technical mastery through systematic unlearning toward recovered innocence and spontaneity.
 license: MIT
 metadata:
+  version: 1.0.4457
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - mastery-to-innocence
